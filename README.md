@@ -55,7 +55,7 @@ java -version
 
 2. **Kompilasi Program**  
 Jalankan perintah berikut dari direktori utama proyek:
-javac -d bin -encoding UTF8 src/model/.java src/db/.java src/exc/.java src/view/.java
+javac -d bin -encoding UTF8 src/view/*.java src/model/*.java src/db/*.java src/exc/*.java
 
 Catatan: Pesan `uses unchecked or unsafe operations` merupakan warning dan tidak memengaruhi jalannya aplikasi.
 
