@@ -29,22 +29,6 @@ Aplikasi ini menerapkan konsep-konsep Pemrograman Berorientasi Objek sebagai ber
 
 ---
 
-## Struktur Folder Proyek
-SPRB_EsaUnggul/
-├── src/
-│ ├── model/
-│ ├── view/
-│ ├── db/
-│ └── exc/
-├── data/
-│ ├── users.dat
-│ ├── ruang.dat
-│ └── peminjaman.dat
-├── bin/
-└── README.md
-
----
-
 ## Daftar User Saat Ini (Untuk login ke sistem)
 Admin:
     Username: Admin Utama
